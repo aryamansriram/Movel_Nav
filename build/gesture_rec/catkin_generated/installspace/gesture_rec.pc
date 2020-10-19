@@ -1,0 +1,8 @@
+prefix=/home/rosguy/catkin_ws/install
+
+Name: gesture_rec
+Description: Description of gesture_rec
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rosguy/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/rosguy/catkin_ws/devel
+
+Name: PointCloudOps
+Description: Description of PointCloudOps
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

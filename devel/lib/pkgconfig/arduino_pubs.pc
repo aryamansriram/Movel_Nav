@@ -1,0 +1,8 @@
+prefix=/home/rosguy/catkin_ws/devel
+
+Name: arduino_pubs
+Description: Description of arduino_pubs
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rosguy/catkin_ws/devel/lib 
+Requires: 

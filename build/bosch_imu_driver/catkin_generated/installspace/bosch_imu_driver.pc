@@ -1,0 +1,8 @@
+prefix=/home/rosguy/catkin_ws/install
+
+Name: bosch_imu_driver
+Description: Description of bosch_imu_driver
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/rosguy/catkin_ws/install/lib 
+Requires: 
